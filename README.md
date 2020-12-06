@@ -4,10 +4,6 @@
 
 > An awesome & curated list of best applications and tools for Windows.
 
-> \*Please, consider supporting my work as a lot of effort takes place to generate this list! Thanks a lot.
-
-<a href="https://www.buymeacoffee.com/rahulkapoor90" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-yellow.png" alt="Buy Me A Coffee" style="height: 51px !important;width: 217px !important;" ></a>
-
 > _Items marked with ![Open-Source Software][oss icon] are open-source software. Items marked with ![Freeware][freeware icon] are free._
 
 # <img src="https://raw.githubusercontent.com/Awesome-Windows/Awesome/master/media/chrome_2016-06-11_19-02-31.png" alt="table of contents">
