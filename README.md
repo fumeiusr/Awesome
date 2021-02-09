@@ -84,10 +84,7 @@
 ### Compression
 
 - [7-Zip](http://www.7-zip.org/) - Open source Windows utility for manipulating archives. Formats 7z, ZIP, GZIP, BZIP2 and TAR are supported fully, other formats can be unpacked. [![Open-Source Software][oss icon]](http://www.7-zip.org/download.html) ![Freeware][freeware icon]
-- [Bandizip](https://www.bandisoft.com/bandizip/) - A lightweight, fast and free All-In-One Zip Archiver. ![Freeware][freeware icon]
 - [PeaZip](http://www.peazip.org/) - Archiver and file compressor. Extract 7Z CAB ISO RAR TAR ZIP archive files. [![Open-Source Software][oss icon]](https://osdn.net/projects/peazip/) ![Freeware][freeware icon]
-- [Riot](http://luci.criosweb.ro/riot/) - Compress images either by file size or by many other image attributes. ![Freeware][freeware icon]
-- [WinRAR](http://www.rarlab.com/) - A powerful archive manager. It can backup your data and reduce the size of email attachments, decompress RAR, ZIP and other files.
 
 ### Customization
 
@@ -343,7 +340,6 @@
 - [SetToStartup](https://aashutoshrathi.github.io/Python-Scripts-and-Games/SetToStartup/) - This script will help you to add your favorite programs or self made scripts/folders to startup. [![Open-Source Software][oss icon]](https://aashutoshrathi.github.io/Python-Scripts-and-Games/SetToStartup/)
 - [ShareX](https://getsharex.com/)- Lets you take screenshots or screencasts of any selected area with a single key. [![Open-Source Software][oss icon]](https://github.com/ShareX/ShareX) ![Freeware][freeware icon]
 - [SpaceMonger](https://spacemonger.en.softonic.com/download) - A graphical utility to display folders and files in blocks relative to their disk usage.
-- [Speccy](https://www.piriform.com/speccy) -Detailed statistics on every piece of hardware in your computer.
 - [SpeedCrunch](http://speedcrunch.org/) - The best and only calculator you'll need, completely stripped down of unnecessary UI clutter. [![Open-Source Software][OSS Icon]](https://bitbucket.org/heldercorreia/speedcrunch/) ![Freeware][Freeware Icon]
 - [Sysinternals Suite](https://technet.microsoft.com/en-us/sysinternals/bb842062) - Tool suite by Mark Russinovich that provides access to Windows internals for troubleshooting: processes, physical ports, disk activity etc.
 - [ueli](https://ueli.app/#/) - A powerful keystroke launcher for Windows. 
@@ -416,43 +412,11 @@
 - [Show hidden files](http://www.windows.microsoft.com/en-in/windows/show-hidden-files)
 - [list of Shortcut keys](http://imgur.com/a/TIXvm)
 
-## Discussion Forums
-
-#### Windows
-
-- [Windows Support Communities](http://answers.microsoft.com/en-us/windows)
-- [Stack Overflow](http://stackoverflow.com/questions/tagged/windows)
-- [Super User](http://superuser.com/questions/tagged/windows*)
-
-#### IRC channels
-
-- [#Windows](https://webchat.freenode.net/?channels=windows)
-- [#microsoft](https://webchat.freenode.net/?channels=microsoft)
-
-#### Reddit
-
-- [/r/windows](https://www.reddit.com/r/windows/)
-- [/r/windowsapps](https://www.reddit.com/r/windowsapps)
-- [/r/microsoft](https://www.reddit.com/r/Microsoft)
-- [/r/sysadmin](https://www.reddit.com/r/sysadmin)
-- [/r/microsoftsoftwareswap](https://www.reddit.com/r/microsoftsoftwareswap)
-
-## Contribute
-
-Contributions are most welcome, please adhere to the [contribution guidelines](Contributing.md).
 
 **[⬆ back to top](#applications)**
 
 [oss icon]: https://cdn.rawgit.com/Awesome-Windows/Awesome/master/media/OSS.svg
 [freeware icon]: https://cdn.rawgit.com/Awesome-Windows/Awesome/master/media/free.svg
-
-## Backers
-
-Thank you to all our supporters! 🙏
-
-> \*Please, consider supporting my work as a lot of effort takes place to generate this list! Thanks a lot.
-
-<a href="https://www.buymeacoffee.com/rahulkapoor90" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-orange.png" alt="Buy Me A Coffee please!" style="height: 51px !important;width: 217px !important;" ></a>
 
 ## License
 
