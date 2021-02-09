@@ -1,8 +1,6 @@
 # <img src="https://raw.githubusercontent.com/Awesome-Windows/Awesome/master/media/main-awesomeWindows.png" width="400" alt="awesome windows">
 
-[![Awesome](https://awesome.re/badge-flat2.svg)](https://awesome.re) [![jaywcjlove/sb](https://jaywcjlove.github.io/sb/lang/chinese.svg)](README-cn.md)
-
-> An awesome & curated list of best applications and tools for Windows.
+> 🌸 My personal list of best applications, extentions and tools for Windows
 
 > _Items marked with ![Open-Source Software][oss icon] are open-source software. Items marked with ![Freeware][freeware icon] are free._
 
@@ -205,6 +203,7 @@
 - [Krita](https://krita.org/) - Krita is a professional FREE and open source painting program. [![Open-Source Software][oss icon]](https://krita.org/en/download/krita-desktop/) ![Freeware][freeware icon]
 - [MapTiler](https://www.maptiler.com/) - MapTiler generates zoomable raster maps from images in user-defined coordinate system. ![Freeware][freeware icon]
 - [Paint.net](http://www.getpaint.net/index.html) - how can you live without paint.net? ![Freeware][freeware icon]
+- [Quick Picture Viewer](https://moduleart.github.io/quick-picture-viewer/) - A lightweight, versatile desktop image viewer for Windows [![Open-Source Software][oss icon]](https://github.com/ModuleArt/quick-picture-viewer) ![Freeware][freeware icon]
 
 ### Text Editors
 
@@ -305,9 +304,8 @@
 - [Acrosync](https://acrosync.com/windows.html) - The only native rsync client for Windows (no cygwin required). It supports automatic uploads on file changes and incremental hourly backups.
 - [AddToSendTo](https://aashutoshrathi.github.io/Python-Scripts-and-Games/AddToSendTo/) - This script lets you add your favorite Folder to Send To option, when you right-click. [![Open-Source Software][oss icon]](https://aashutoshrathi.github.io/Python-Scripts-and-Games/AddToSendTo/)
 - [Advanced Renamer](https://www.advancedrenamer.com/) - Advanced batch renaming program, with support for renaming based on GPS data from images, ID3 tags from music files, TV show data and regular expressions. ![Freeware][freeware icon]
-- [Bandicam](https://www.bandicam.com) - Recording software allowing easy video recording of both desktop and 3D apps simultaneously.
 - [Carnac](http://code52.org/carnac/) - The easiest way to record keystrokes during any screen recording.
-- [CleanMyPC](http://macpaw.com/cleanmypc) - A clean computer in no time.
+- [CompactGUI](https://github.com/ImminentFate/CompactGUI) [![Open-Source Software][oss icon]](https://github.com/ImminentFate/CompactGUI)
 - [CPU-Z](http://www.cpuid.com/softwares/cpu-z.html) - A free all-in-one CPU monitoring tool. ![Freeware][freeware icon]
 - [Econap](https://econap.de) - Prevent sleep mode while your system is busy. ![Freeware][freeware icon]
 - [Ext2Fsd](http://www.ext2fsd.com/) - Open source ext3/4 file system driver for Windows. [![Open-Source Software][oss icon]](https://github.com/matt-wu/Ext3Fsd) ![Freeware][freeware icon]
@@ -365,6 +363,7 @@
 - [HandBrake](http://handbrake.fr/) - High performance video encoding and conversion tools with a nice GUI. [![Open-Source Software][oss icon]](https://github.com/HandBrake/HandBrake)
 - [K-Lite Codecs](http://www.codecguide.com/download_kl.htm) - Collection of DirectShow filters, VFW/ACM codecs, and tools.
 - [mpv](http://mpv.io/) - Media player. [![Open-Source Software][oss icon]](https://github.com/mpv-player/mpv)
+- [mpv.net](https://mpv-net.github.io/mpv.net-web-site/) - A modern media player for Windows based on the popular mpv player [![Open-Source Software][oss icon]](https://github.com/stax76/mpv.net)
 - [Olive Video Editor](https://www.olivevideoeditor.org/) - Open source cross-platform non-linear video editor. [![Open-Source Software][oss icon]](https://github.com/olive-editor/olive) ![Freeware][freeware icon]
 - [Open Broadcaster Software](https://obsproject.com/) - Free and open source software for video recording and live streaming. [![Open-Source Software][oss icon]](https://github.com/jp9000/OBS)
 - [PotPlayer](http://potplayer.daum.net/) - Multimedia player with a wide collection of codecs which also offers extensive configuration options for users.
