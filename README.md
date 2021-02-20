@@ -22,7 +22,6 @@ _Items marked with ![Open-Source Software][oss icon] are open-source software. I
   - [Graphics](#graphics)
   - [Text Editors](#text-editors)
   - [IDEs](#ides)
-  - [Online Storage](#online-storage)
   - [Backup](#backup)
   - [Productivity](#productivity)
   - [Terminal](#terminal)
@@ -160,27 +159,21 @@ _Items marked with ![Open-Source Software][oss icon] are open-source software. I
 
 ### Email
 
-- [Mailbird](https://www.mailbird.com/) - IMAP and POP3 email client, featuring customization, complete touch support and multiple language support.
 - [Mailspring](https://getmailspring.com/) - A fast and maintained fork of Nylas Mail, built on modern web technologies. [![Open-Source Software][oss icon]](https://github.com/Foundry376/Mailspring) ![Freeware][freeware icon]
 - [Nylas Mail](https://www.nylas.com/download/) - An extensible desktop mail app built on the modern web. [![Open-Source Software][oss icon]](https://github.com/nylas/N1) ![Freeware][freeware icon]
-- [Postbox](https://postbox-inc.com/) - The Power Email App
 - [Thunderbird](https://www.mozilla.org/en-US/thunderbird/) - Email client with minimalistic design. [![Open-Source Software][oss icon]](https://developer.mozilla.org/en-US/docs/Mozilla/Developer_guide/Build_Instructions/Simple_Thunderbird_build) ![Freeware][freeware icon]
-- [BlueMail](https://www.bluemail.me/desktop/) - beautifully designed, powerful and easy to use email app if you're looking for cross-platform functionality.
 
 ### Games
 
-- [0 A.D.](https://play0ad.com/) - A free, open-source real-time strategy game of ancient warfare. [![Open-Source Software][oss icon]](https://github.com/0ad/0ad) ![Freeware][freeware icon]
 - [Awesome Games](https://github.com/leereilly/games) - List of games hosted on Github. ![Freeware][freeware icon]
-- [Freeciv](http://www.freeciv.org/) - A Free and Open Source empire-building strategy game inspired by the history of human civilization. [![Open-Source Software][oss icon]](https://github.com/freeciv/) ![Freeware][freeware icon]
 - [Godot Engine](https://godotengine.org/) - Free and open source game engine. Easy to get started and flexible for intermediate users. [![Open-Source Software][oss icon]](https://github.com/godotengine/godot) ![Freeware][freeware icon]
 - [GOG](https://www.gog.com/) - DRM-free game store with a lot of old games but also has a rich collection of new games.
 - [Itch.io](https://itch.io/app/) - Install, update and play indie games. [![Open-Source Software][oss icon]](https://github.com/itchio/itch) ![Freeware][freeware icon]
+- [Legendary](https://github.com/derrod/legendary) - A free and open-source alternative to the Epic Games Launcher. [![Open-Source Software][oss icon]](https://github.com/derrod/legendary) ![Freeware][freeware icon]
 - [LuaStudio](http://scormpool.com/luastudio) - Free game development tool/engine. Create games and other graphic focused apps on Windows using Lua/LuaJIT programming language. Export them to many platforms including iOS, Android and Mac.
-- [Origin](https://www.origin.com/en-in/store/) - Like Steam, but for EA.
 - [Steam](http://store.steampowered.com/) - Largest online video game retailer. Desktop app allows you to organise your library of games and play them at any time. But you already knew that.
 - [Unity](https://unity3d.com/) - Free game engine. Easy to pick up and use with a number of tutorials.
 - [Unreal Engine](https://www.unrealengine.com/what-is-unreal-engine-4) - Another free game engine. Lots of documentation and easier to pick up, but you pay 5% royalties to Unreal when you make money from UE-based games.
-- [Warsow](https://www.warsow.net/) - Free & fast-paced FPS game for Windows. ![Freeware][freeware icon]
 
 ### Graphics
 
@@ -219,17 +212,6 @@ _Items marked with ![Open-Source Software][oss icon] are open-source software. I
 - [RubyMine](https://www.jetbrains.com/ruby/) - An intelligent Ruby IDE that supports many modern frameworks.
 - [Visual Studio](https://www.visualstudio.com/vs/) - Microsofts official IDE. Supports a multitude of languages via plugins.
 - [WebStorm](https://www.jetbrains.com/webstorm/) - A smart JavaScript IDE that uses the full power of the modern JavaScript ecosystem.
-
-### Online Storage
-
-- [Box](https://app.box.com/services/browse/43/box_sync_for_windows) - Ability to sync more than 100,000 files and supporting both special characters in file names and file paths longer than 256 characters.
-- [Dropbox](https://www.dropbox.com/install) -Simple, elegant and versatile (PC, Macs, Android...) cloud storage solution.
-- [Google Drive](https://www.google.com/drive/download/) - Cloud storage solution deeply integrated in the Google ecosystem.
-- [pCloud](https://www.pcloud.com) - A swiss based privacy first cloud provider. Also offers one time payment lifetime plans.
-- [Sync](https://www.sync.com/) - Encrypted file storage that stores all files in canadian datacenters
-- [Mega](https://mega.nz/) - Encrypted file storage.
-- [Mozy](https://mozy.com/product/download)
-- [OneDrive](https://onedrive.live.com/about/en-us/download/) - Best cloud storage solution for Windows users.
 
 ### Backup
 
@@ -335,7 +317,6 @@ _Items marked with ![Open-Source Software][oss icon] are open-source software. I
 - [Waltr](http://softorino.com/waltr/) - Transfer any movie or music file to your iPhone w/o iTunes.
 - [WinDirStat](https://windirstat.info/) - It is a disk usage statistics viewer and cleanup too.
 - [Windows 10 Login Screen Changer](https://github.com/PFCKrutonium/Windows-10-Login-Background-Changer/releases/) - Changes the Windows 10 Login Screen Background. [![Open-Source Software][oss icon]](https://github.com/PFCKrutonium/Windows-10-Login-Background-Changer)
-- [`winreg-cli`](https://github.com/notlmn/winreg-cli) - Command line tool with a fluent API for modifying Windows registry. ![[Open-Source Software][OSS Icon]](https://github.com/notlmn/winreg-cli) ![Freeware][freeware icon]
 - [WizTree](https://wiztree.en.lo4d.com/) - Excellent, small utility application allows users to quickly find large files on a hard drive. ![Freeware][freeware icon]
 - [Yacy](https://github.com/yacy/yacy_search_server) - A general search engine by corporations of people, including the search web page, general crawlers, indexing, and ranking functions.[![Open-Source Software][oss icon]](https://github.com/yacy/yacy_search_server)
 - [ZeroNet](https://github.com/HelloZeroNet/ZeroNet) - A decentralized web. [![Open-Source Software][oss icon]](https://github.com/HelloZeroNet/ZeroNet)
@@ -344,6 +325,7 @@ _Items marked with ![Open-Source Software][oss icon] are open-source software. I
 ### Proxy and VPN Tools
 
 - [Algo](https://github.com/trailofbits/algo) - Personal IPSEC VPN in the cloud.
+- [ProtonVPN](https://protonvpn.com/) - A VPN based in Switzerland.
 
 ### Video
 
@@ -359,6 +341,7 @@ _Items marked with ![Open-Source Software][oss icon] are open-source software. I
 - [VLC](http://www.videolan.org/vlc/index.html) - Multimedia player and framework that plays DVDs, Audio CDs, VCDs, and various streaming protocols. [![Open-Source Software][oss icon]](https://github.com/NickeManarin/ScreenToGif/) ![Freeware][freeware icon]
 
 ### Web Browsers
+
 - [Brave](https://brave.com/) - A better Google Chrome with many added features. [![Open-Source Software][oss icon]](https://github.com/brave/brave-browser) ![Freeware][freeware icon]
 - [Firefox](https://www.mozilla.org/en-US/firefox/new/) - Open source web browser developed by Mozilla. [![Open-Source Software][oss icon]](https://hg.mozilla.org/mozilla-central/) ![Freeware][freeware icon]
 - [LibreWolf](https://gitlab.com/librewolf-community/browser/windows/-/releases) - Firefox, without the Mozilla BS. _NOTE: Experimental, I recommend to use Firefox with [privacy scripts](https://github.com/simeononsecurity/FireFox-Privacy-Script)._ [![Open-Source Software][oss icon]](https://gitlab.com/librewolf-community/browser/windows) ![Freeware][freeware icon]
