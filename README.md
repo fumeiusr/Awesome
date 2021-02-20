@@ -1,10 +1,10 @@
-# <img src="https://raw.githubusercontent.com/Awesome-Windows/Awesome/master/media/main-awesomeWindows.png" width="400" alt="awesome windows">
+# <img src="https://raw.githubusercontent.com/fumeiusr/Bliss/master/media/bliss.png" width="400" alt="bliss windows">
 
 > 🌸 My personal list of best applications, extentions and tools for Windows
 
 > _Items marked with ![Open-Source Software][oss icon] are open-source software. Items marked with ![Freeware][freeware icon] are free._
 
-# <img src="https://raw.githubusercontent.com/Awesome-Windows/Awesome/master/media/chrome_2016-06-11_19-02-31.png" alt="table of contents">
+TOC
 
 <!-- vim-markdown-toc GFM -->
 
@@ -402,7 +402,7 @@
 **[⬆ back to top](#applications)**
 
 [oss icon]: https://cdn.rawgit.com/Awesome-Windows/Awesome/master/media/OSS.svg
-[freeware icon]: https://cdn.rawgit.com/Awesome-Windows/Awesome/master/media/free.svg
+[freeware icon]: https://raw.githubusercontent.com/fumeiusr/Bliss/master/media/free.svg
 
 ## License
 
