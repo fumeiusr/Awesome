@@ -1,10 +1,10 @@
 # <img src="https://raw.githubusercontent.com/fumeiusr/Bliss/master/media/bliss.png" width="400" alt="bliss windows">
 
-> 🌸 My personal list of best applications, extentions and tools for Windows
+🌸 My personal list of best applications, extentions and tools for Windows
 
-> _Items marked with ![Open-Source Software][oss icon] are open-source software. Items marked with ![Freeware][freeware icon] are free._
+_Items marked with ![Open-Source Software][oss icon] are open-source software. Items marked with ![Freeware][freeware icon] are free._
 
-TOC
+## TOC
 
 <!-- vim-markdown-toc GFM -->
 
