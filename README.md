@@ -29,16 +29,11 @@ _Items marked with ![Open-Source Software][oss icon] are open-source software. I
   - [Utilities](#utilities)
   - [Proxy and VPN Tools](#proxy-and-vpn-tools)
   - [Video](#video)
+  - [Web Browsers](#web-browsers)
 - [Setup](#setup)
   - [Windows 10 Setup](#windows-10-setup)
 - [Security](#security)
 - [Miscellaneous](#miscellaneous)
-- [Discussion Forums](#discussion-forums)
-    - [Windows](#windows)
-    - [IRC channels](#irc-channels)
-    - [Reddit](#reddit)
-- [Contribute](#contribute)
-- [Backers](#backers)
 - [License](#license)
 
 <!-- vim-markdown-toc -->
@@ -49,21 +44,13 @@ _Items marked with ![Open-Source Software][oss icon] are open-source software. I
 
 - [AIMP](http://www.aimp.ru/) - 32 bit audio processing and multi-format playback. ![Freeware][freeware icon]
 - [Audacity](http://audacityteam.org/) - Free, open source, cross-platform software for recording and editing sounds. [![Open-Source Software][oss icon]](https://github.com/audacity/audacity) ![Freeware][freeware icon]
-- [AudioNodes](https://audionodes.com/) - Modular audio production suite with multi-track audio mixing, audio effects, parameter automation, MIDI editing, synthesis, cloud production, and more. ![Freeware][freeware icon]
-- [CDex](http://www.cdex.fr/) - CD Ripper (French site, English program). ![Freeware][freeware icon]
-- [Dopamine](http://www.digimezzo.com/software/dopamine/) - An audio player which tries to make organizing and listening to music as simple and pretty as possible. ![Freeware][freeware icon]
-- [Exact Audio Copy](http://www.exactaudiocopy.de/) - Transfer files from your CDs to your PC in almost every format.Comes with some pretty nifty features too.
 - [Foobar2000](http://www.foobar2000.org/) - Free audio player for Windows, supports a wide range of audio formats and has a lot of cool features. ![Freeware][freeware icon]
 - [K-Lite Codecs](http://www.codecguide.com/download_kl.htm) - Collection of DirectShow filters, VFW/ACM codecs, and tools. ![Freeware][freeware icon]
 - [Kodi](https://kodi.tv/) - Free and Open Source home theatre software. [![Open-Source Software][oss icon]](https://github.com/xbmc) ![Freeware][freeware icon]
 - [Mixxx](http://mixxx.org/) - Free DJ software that gives you everything you need to perform live mixes, veritable alternative to Traktor. [![Open-Source Software][oss icon]](https://github.com/mixxxdj/mixxx) ![Freeware][freeware icon]
-- [Musicbee](http://getmusicbee.com/) - Like iTunes but better than iTunes.
+- [Musicbee](http://getmusicbee.com/) - Another free audio player, very similar to iTunes or foobar. ![Freeware][freeware icon]
 - [MusicBrainz Picard](https://picard.musicbrainz.org/) - Picard is a cross-platform music tagger that looks up and rewrite metadata tags. [![Open-Source Software][oss icon]](https://github.com/metabrainz/picard) ![Freeware][freeware icon]
 - [Qtractor](http://qtractor.sourceforge.net/qtractor-index.html#Downloads) - An Audio/MIDI multi-track sequencer. [![Open-Source Software][oss icon]](http://qtractor.sourceforge.net/qtractor-downloads.html#Git) ![Freeware][freeware icon]
-- [Reaper](http://www.reaper.fm/download.php) - Lightweight application with deep feature set and \$60 for individual, non-profit, or small business use.
-- [Resonic](https://resonic.at/) - Fast and free audio player.
-- [WACUP](https://getwacup.com/preview) - An extension/improvement to Winamp, providing bugfixes and more features such as a better MOD player and YouTube support. ![Freeware][Freeware Icon]
-- [Winamp](http://www.winamp.com/) - Music player capable of playing MP3s, MP2s, WAVs, VOCs and MIDI files. ![Freeware][Freeware Icon]
 
 ### Chat Clients
 
@@ -361,18 +348,21 @@ _Items marked with ![Open-Source Software][oss icon] are open-source software. I
 ### Video
 
 - [DaVinci Resolve](https://www.blackmagicdesign.com/products/davinciresolve/) - Professional video creation software for editing, visual effects, color correction, and audio post production. ![Freeware][freeware icon]
-- [HandBrake](http://handbrake.fr/) - High performance video encoding and conversion tools with a nice GUI. [![Open-Source Software][oss icon]](https://github.com/HandBrake/HandBrake)
+- [HandBrake](http://handbrake.fr/) - High performance video encoding and conversion tools with a nice GUI. [![Open-Source Software][oss icon]](https://github.com/HandBrake/HandBrake) ![Freeware][freeware icon]
 - [K-Lite Codecs](http://www.codecguide.com/download_kl.htm) - Collection of DirectShow filters, VFW/ACM codecs, and tools.
-- [mpv](http://mpv.io/) - Media player. [![Open-Source Software][oss icon]](https://github.com/mpv-player/mpv)
-- [mpv.net](https://mpv-net.github.io/mpv.net-web-site/) - A modern media player for Windows based on the popular mpv player [![Open-Source Software][oss icon]](https://github.com/stax76/mpv.net)
+- [mpv](http://mpv.io/) - Media player. [![Open-Source Software][oss icon]](https://github.com/mpv-player/mpv) ![Freeware][freeware icon]
+- [mpv.net](https://mpv-net.github.io/mpv.net-web-site/) - A modern media player for Windows based on the popular mpv player. [![Open-Source Software][oss icon]](https://github.com/stax76/mpv.net) ![Freeware][freeware icon]
 - [Olive Video Editor](https://www.olivevideoeditor.org/) - Open source cross-platform non-linear video editor. [![Open-Source Software][oss icon]](https://github.com/olive-editor/olive) ![Freeware][freeware icon]
 - [Open Broadcaster Software](https://obsproject.com/) - Free and open source software for video recording and live streaming. [![Open-Source Software][oss icon]](https://github.com/jp9000/OBS)
-- [PotPlayer](http://potplayer.daum.net/) - Multimedia player with a wide collection of codecs which also offers extensive configuration options for users.
-- [ScreenToGif](http://www.screentogif.com/) - ScreenToGif allows you to record a selected area of your screen and save it as a gif or video. [![Open-Source Software][oss icon]](https://github.com/NickeManarin/ScreenToGif/) ![Freeware][freeware icon]
 - [Shotcut](https://www.shotcut.org/download/) - Open source cross-platform video editor. [![Open-Source Software][oss icon]](https://github.com/mltframework/shotcut) ![Freeware][freeware icon]
 - [SMPlayer](https://sourceforge.net/projects/smplayer/) - Multimedia player that can save different preferences for any single video. [![Open-Source Software][oss icon]](https://sourceforge.net/p/smplayer/code/HEAD/tree/) ![Freeware][freeware icon]
 - [VLC](http://www.videolan.org/vlc/index.html) - Multimedia player and framework that plays DVDs, Audio CDs, VCDs, and various streaming protocols. [![Open-Source Software][oss icon]](https://github.com/NickeManarin/ScreenToGif/) ![Freeware][freeware icon]
-- [Videotape](https://usuaia.com/videotape) - Video player for windows 10 focused on simplicity with a beautiful and easy to use interface.
+
+### Web Browsers
+- [Brave](https://brave.com/) - A better Google Chrome with many added features. [![Open-Source Software][oss icon]](https://github.com/brave/brave-browser) ![Freeware][freeware icon]
+- [Firefox](https://www.mozilla.org/en-US/firefox/new/) - Open source web browser developed by Mozilla. [![Open-Source Software][oss icon]](https://hg.mozilla.org/mozilla-central/) ![Freeware][freeware icon]
+- [LibreWolf](https://gitlab.com/librewolf-community/browser/windows/-/releases) - Firefox, without the Mozilla BS. _NOTE: Experimental, I recommend to use Firefox with [privacy scripts](https://github.com/simeononsecurity/FireFox-Privacy-Script)._ [![Open-Source Software][oss icon]](https://gitlab.com/librewolf-community/browser/windows) ![Freeware][freeware icon]
+- [ungoogled-chromium](https://ungoogled-software.github.io/) - A lightweight Google Chromium, without the Google BS. [![Open-Source Software][oss icon]](https://github.com/Eloston/ungoogled-chromium) ![Freeware][freeware icon]
 
 ## Setup
 
