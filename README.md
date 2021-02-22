@@ -72,11 +72,8 @@ _Items marked with ![Open-Source Software][oss icon] are open-source software. I
 
 ### Customization
 
-- [7+ Taskbar Tweaker](http://rammichael.com/7-taskbar-tweaker) - Allows to customize and extend Windows taskbar functionality with various productivity enhancements. ![Freeware][freeware icon]
 - [Classic Start](https://github.com/passionate-coder/Classic-Start) - Use Start Menu and Explorer like it's 2000. [![Open-Source Software][oss icon]](https://github.com/passionate-coder/Classic-Start) ![Freeware][freeware icon]
-- [Clover](http://en.ejie.me/) - Add multi-tab functionality to Windows Explorer. ![Freeware][freeware icon]
 - [EarTrumpet](https://github.com/File-New-Project/EarTrumpet) - Per application volume control from the system tray. [![Open-Source Software][oss icon]](https://github.com/File-New-Project/EarTrumpet) ![Freeware][freeware icon]
-- [QTTabBar](http://qttabbar.wikidot.com/) - Extends Explorer by tabs and extra folder views. ![Freeware][freeware icon]
 - [Rainmeter](https://www.rainmeter.net/) - Rainmeter allows you to display customizable skins on your desktop, from hardware usage meters to fully functional audio visualizers. [![Open-Source Software][oss icon]](https://github.com/rainmeter/rainmeter) ![Freeware][freeware icon]
 - [Search Deflector](https://github.com/spikespaz/search-deflector) - A small program that redirects searches made from the Windows Start Menu or Cortana to whatever browser and search engine you prefer. [![Open-Source Software][oss icon]](https://github.com/spikespaz/search-deflector) ![Freeware][freeware icon]
 - [TranslucentTB](https://github.com/TranslucentTB/TranslucentTB) - Make your Windows task bar transparent. [![Open-Source Software][oss icon]](https://github.com/TranslucentTB/TranslucentTB) ![Freeware][freeware icon]
