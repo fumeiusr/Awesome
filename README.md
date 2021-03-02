@@ -229,7 +229,8 @@ _Items marked with ![Open-Source Software][oss icon] are open-source software. I
 - [SpeedCrunch](http://speedcrunch.org/) - The best and only calculator you'll need, completely stripped down of unnecessary UI clutter. [![Open-Source Software][OSS Icon]](https://bitbucket.org/heldercorreia/speedcrunch/) ![Freeware][Freeware Icon]
 - [Sysinternals Suite](https://technet.microsoft.com/en-us/sysinternals/bb842062) - Tool suite by Mark Russinovich that provides access to Windows internals for troubleshooting: processes, physical ports, disk activity etc.
 - [SpeedCrunch](http://speedcrunch.org/) - The best and only calculator you'll need, completely stripped down of unnecessary UI clutter. [![Open-Source Software][oss icon]](https://bitbucket.org/heldercorreia/speedcrunch/) ![Freeware][freeware icon]
-- [Sysinternals Suite](https://technet.microsoft.com/en-us/sysinternals/bb842062) - Tool suite by Mark Russinovich that provides access to Windows internals for troubleshooting: processes, physical ports, disk activity etc. -[ueli](https://ueli.app/#/) - A powerful keystroke launcher for Windows.
+- [Sysinternals Suite](https://technet.microsoft.com/en-us/sysinternals/bb842062) - Tool suite by Mark Russinovich that provides access to Windows internals for troubleshooting: processes, physical ports, disk activity etc. 
+- [ueli](https://ueli.app/) - A powerful keystroke launcher for Windows.
 - [TaskbarX](https://chrisandriessen.nl/taskbarx) - Center Windows taskbar icons with a variety of animations and options. [![Open-Source Software][oss icon]](https://github.com/ChrisAnd1998/TaskbarX) 
 - [Unlocker](http://www.softpedia.com/get/System/System-Miscellaneous/Unlocker.shtml) - Unlock files Windows won't let you delete
 - [Wireshark](https://www.wireshark.org/) - A network protocol analyzer. [![Open-Source Software][oss icon]](https://www.wireshark.org/docs/wsdg_html_chunked/ChIntroDevelopment.html) ![Freeware][freeware icon]
