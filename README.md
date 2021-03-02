@@ -14,7 +14,6 @@ _Items marked with ![Open-Source Software][oss icon] are open-source software. I
   - [Compression](#compression)
   - [Customization](#customization)
   - [Data Recovery](#data-recovery)
-  - [Developer Tools](#developer-tools)
   - [Documents](#documents)
   - [E-Book Utilities](#e-book-utilities)
   - [Email](#email)
@@ -56,13 +55,10 @@ _Items marked with ![Open-Source Software][oss icon] are open-source software. I
 - [Caprine](https://sindresorhus.com/caprine/) - An elegant Facebook Messenger desktop app. [![Open-Source Software][oss icon]](https://github.com/sindresorhus/caprine) ![Freeware][freeware icon]
 - [Discord](https://discordapp.com) - Discord is a free voice and text chat client for gamers and non-gamers alike. You can use it from your browser and it's available on iOS, Android, Windows, Mac, and Linux. ![Freeware][freeware icon]
 - [Hexchat](https://hexchat.github.io/) - IRC client based on XChat [![Open-Source Software][oss icon]](https://hexchat.github.io/) ![Freeware][freeware icon]
-- [LimeChat](http://limechat.net) - Instant messaging application. ![Freeware][freeware icon]
-- [mIRC](http://www.mirc.com/) - An Internet Relay Chat (IRC) client.
 - [Quassel](http://quassel-irc.org/) - Quassel IRC is a modern, cross-platform, distributed IRC client. [![Open-Source Software][OSS Icon]](http://quassel-irc.org/) ![Freeware][Freeware Icon]
 - [Riot](https://about.riot.im/) - A decentralised encrypted comms app for the Matrix.org ecosystem. [![Open-Source Software][OSS Icon]](https://github.com/vector-im/riot-web) ![Freeware][Freeware Icon]
 - [Signal](https://signal.org/) - A messaging app for simple private communication [![Open-Source Software][OSS Icon]](https://github.com/signalapp/) ![Freeware][Freeware Icon]
 - [Telegram](https://desktop.telegram.org/) - A messaging app with a focus on speed and security, it’s super fast, simple and free. [![Open-Source Software][OSS Icon]](https://telegram.org/apps)  ![Freeware][Freeware Icon]
-- [Waow](http://dedg3.com/wao/) - Awesome WhatsApp Web Client to deliver you the best WhatsApp experience. ![Freeware][Freeware Icon]
 - [Franz](https://meetfranz.com/) - A messaging app for WhatsApp, Facebook Messenger, Slack, Telegram and many many more. [![Open-Source Software][OSS Icon]](https://github.com/meetfranz/franz) ![Freeware][Freeware Icon]
 
 ### Compression
@@ -72,13 +68,11 @@ _Items marked with ![Open-Source Software][oss icon] are open-source software. I
 
 ### Customization
 
-- [Classic Start](https://github.com/passionate-coder/Classic-Start) - Use Start Menu and Explorer like it's 2000. [![Open-Source Software][oss icon]](https://github.com/passionate-coder/Classic-Start) ![Freeware][freeware icon]
 - [EarTrumpet](https://github.com/File-New-Project/EarTrumpet) - Per application volume control from the system tray. [![Open-Source Software][oss icon]](https://github.com/File-New-Project/EarTrumpet) ![Freeware][freeware icon]
+- [Open Shell](https://github.com/Open-Shell/Open-Shell-Menu) - Classic Shell Reborn. [![Open-Source Software][oss icon]](https://github.com/Open-Shell/Open-Shell-Menu) ![Freeware][freeware icon]
 - [Rainmeter](https://www.rainmeter.net/) - Rainmeter allows you to display customizable skins on your desktop, from hardware usage meters to fully functional audio visualizers. [![Open-Source Software][oss icon]](https://github.com/rainmeter/rainmeter) ![Freeware][freeware icon]
 - [Search Deflector](https://github.com/spikespaz/search-deflector) - A small program that redirects searches made from the Windows Start Menu or Cortana to whatever browser and search engine you prefer. [![Open-Source Software][oss icon]](https://github.com/spikespaz/search-deflector) ![Freeware][freeware icon]
 - [TranslucentTB](https://github.com/TranslucentTB/TranslucentTB) - Make your Windows task bar transparent. [![Open-Source Software][oss icon]](https://github.com/TranslucentTB/TranslucentTB) ![Freeware][freeware icon]
-- [Windows 10 Login Background Changer](https://github.com/PFCKrutonium/Windows-10-Login-Background-Changer) - Lets you change the Windows 10 login screen background. [![Open-Source Software][oss icon]](https://github.com/PFCKrutonium/Windows-10-Login-Background-Changer) ![Freeware][freeware icon]
-- [ZBar](https://www.zhornsoftware.co.uk/archive/index.html#zbar) - If you use multiple monitors, it lets you display a separate taskbar on each monitor.
 
 ### Data Recovery
 
@@ -89,60 +83,9 @@ _Items marked with ![Open-Source Software][oss icon] are open-source software. I
 - [Stellar Phoenix Windows Data Recovery](http://www.stellarinfo.com/windows-data-recovery.php) - Remote recovery option to recover data from another computer over a network.
 - [TestDisk](http://www.cgsecurity.org/wiki/TestDisk) - Powerful free data recovery software primarily designed to help recover lost partitions and/or make non-booting disks bootable again.
 
-### Developer Tools
-
-- [Cacher](https://www.cacher.io/) - Cloud-based, team-enabled code snippet manager with Gist sync, VSCode/Atom/Sublime packages and full-featured web client.
-- [DB Browser for SQLite](http://sqlitebrowser.org/) - High quality, visual, open source tool to create, design, and edit database files compatible with SQLite [![Open-Source Software][oss icon]](http://sqlitebrowser.org/)
-- [ExtendsClass](https://extendsclass.com/) - Online tools for developers (REST/SOAP clients, SQLite browser, Regex tester, XPath tester) ![Freeware][freeware icon]
-- [Fiddler](http://www.telerik.com/fiddler) - Web debugging proxy.
-- [FileZilla](https://filezilla-project.org/) - FTP, FTPS and SFTP client. [![Open-Source Software][oss icon]](https://download.filezilla-project.org/client/) ![Freeware][freeware icon]
-- [Fork](https://git-fork.com/) - A fast & friendly Git client for Windows (and Mac). ![Freeware][freeware icon]
-- [Git Extensions](https://gitextensions.github.io/) - A powerful and easy to use UI for Git. [![Open-Source Software][oss icon]](https://github.com/gitextensions/gitextensions) ![Freeware][freeware icon]
-- [GitHub Desktop](https://desktop.github.com/) - GitHub Desktop is an open source Electron-based GitHub app. [![Open-Source Software][oss icon]](https://github.com/desktop/desktop) ![Freeware][freeware icon]
-- [GitKraken](https://www.gitkraken.com/) - A beautiful, cross-platform Git client. ![Freeware][freeware icon]
-- [HeidiSQL](http://www.heidisql.com/) - Powerful and easy client for MySQL, MariaDB, Microsoft SQL Server and PostgreSQL.
-- [HTTP Toolkit](https://httptoolkit.tech) - HTTP debugging & mocking tool. [![Open-Source Software][oss icon]](https://github.com/httptoolkit) ![Freeware][freeware icon]
-- [I'm Only Resting](https://github.com/SwensenSoftware/im-only-resting) -A feature-rich WinForms-based HTTP client [![Open-Source Software][oss icon]](https://github.com/swensensoftware/im-only-resting) ![Freeware][freeware icon]
-- [Insomnia](http://insomnia.rest) - A modern REST client with a beautiful interface. ![Open-Source Software][oss icon] ![Freeware][freeware icon]
-- [Keylord](https://protonail.com/products/keylord) Cross-platform GUI client for Redis, LevelDB and Memcached key-value databases.
-- [Mamp](https://www.mamp.info/en/) - Local server environment. ![Freeware][freeware icon]
-- [Meld](http://meldmerge.org/) - A visual diff and merge tool. [![Open-Source Software][oss icon]](https://gitlab.gnome.org/GNOME/meld/) ![Freeware][freeware icon]
-- [NSudo](https://github.com/M2Team/NSudo/) - A Powerful System Administration Tool. [![Open-Source Software][oss icon]](https://github.com/M2Team/NSudo/)
-- [Open Server](https://ospanel.io/) - Portable server platform and software environment (like MAMP, XAMPP, WAMP and very user friendly). ![Freeware][freeware icon]
-- [Pixie](http://www.nattyware.com/pixie.php) - A simple color picker for developers.
-- [pngquant](https://pngquant.org/) - Apply lossy compression on PNG files with or wi
-- [PostgreSQL Database](http://wiki.postgresql.org/wiki/Community_Guide_to_PostgreSQL_GUI_Tools) - A comprehensive list of tools.
-- [Postman](https://www.getpostman.com/postman) - REST client with intuitive user interface to send requests, save responses, add tests, and create workflows.
-- [Process Explorer](https://technet.microsoft.com/en-us/sysinternals/processexplorer.aspx) - A powerful task manager. ![Freeware][freeware icon]
-- [Process Hacker](http://processhacker.sourceforge.net/) - Excellent full blown task manager.
-- [Process Monitor](https://docs.microsoft.com/en-us/sysinternals/downloads/procmon)- A sysinternal tool shows real-time file system, Registry, network and process/thread activity. ![Freeware][freeware icon]
-- [RazorSQL](http://www.razorsql.com/) - A GUI for managing SQLite databases which requires major work.
-- [Redis Desktop Manager](http://redisdesktop.com/) Cross-platform open source Redis DB management tool.
-- [Robo 3T](https://robomongo.org/) - A lightweight GUI for MongoDB enthusiasts.
-- [SourceTree](https://www.sourcetreeapp.com/) - A free Git & Mercurial client.
-- [Sql Wave](http://www.valentina-db.com/en/sqlwave) - A MySQL database manager.
-- [SSLyog](https://www.webyog.com/) - A powerful MySQL administration tool
-- [TailBlazer](https://github.com/RolandPheasant/TailBlazer) - A small fast tool for browsing through logs [![Open-Source Software][oss icon]](https://github.com/RolandPheasant/TailBlazer) ![Freeware][freeware icon]
-- [TortoiseGit](https://tortoisegit.org/) - Git client with full shell integration. [![Open-Source Software][oss icon]](https://github.com/tortoisegit/tortoisegit/) ![Freeware][freeware icon]
-- [Tower](https://www.git-tower.com/windows) - Tower - the most powerful Git client for Mac and Windows.
-- [Vagrant](https://www.vagrantup.com/) - A tool for building and managing virtual machines. [![Open-Source Software][oss icon]](https://github.com/mitchellh/vagrant)
-- [Velocity](http://velocity.silverlakesoftware.com/) - Offline API Documentation Tool. (like [Dash](https://kapeli.com/dash) for macOS)
-- [Visual Studio Code](https://code.visualstudio.com/) - Lightweight Source Code Editor. [![Open-Source Software][oss icon]](https://github.com/Microsoft/vscode) ![Freeware][freeware icon]
-- [Visual Studio](https://www.visualstudio.com/) - Ultimate Microsoft Developer Tool.
-- [Wamp](http://www.wampserver.com/en/) - Web development environment.
-- [WinSCP](https://winscp.net/) - Free open source SFTP, FTP, WebDAV and SCP client. ![Freeware][freeware icon]
-- [Wireshark](https://www.wireshark.org/) - A network protocol analyzer. [![Open-Source Software][oss icon]](https://www.wireshark.org/docs/wsdg_html_chunked/ChIntroDevelopment.html) ![Freeware][freeware icon]
-- [WMI Explorer](https://github.com/vinaypamnani/wmie2/) - Provides the ability to browse and view WMI namespaces/classes/instances/properties in a single pane of view. [![Open-Source Software][oss icon]](https://github.com/vinaypamnani/wmie2/)
-- [Xampp](https://www.apachefriends.org/index.html) - Apache driven web development environment. ![Freeware][freeware icon]
-- [Xftp 5](https://www.netsarang.com/products/xfp_overview.html) - Flexible and lightweight SFTP/FTP client. ![Freeware][freeware icon]
-- [Zsh](http://www.zsh.org/) - A powerful command line shell. [![Open-Source Software][oss icon]](http://sourceforge.net/p/zsh/code/ci/master/tree/) ![Freeware][freeware icon]
-
 ### Documents
 
-- [FreeOffice](http://www.freeoffice.com/en/) - FreeOffice is a complete office suite with a word processor, a spreadsheet application and a presentation program – all compatible with their counterparts in Microsoft Office. ![Freeware][freeware icon]
 - [LibreOffice](https://www.libreoffice.org/) - Open source office suite. [![Open-Source Software][oss icon]](https://www.libreoffice.org/about-us/source-code/) ![Freeware][freeware icon]
-- [Microsoft Office](http://www.office.com) - Microsoft's own productivity suite.
-- [NitroPDF](https://www.gonitro.com/pdf-reader) - The best PDF Reader you'll ever get.
 - [OnlyOffice](https://www.onlyoffice.com/) - The most complete and feature-rich office and productivity suite. ![Freeware][freeware icon]
 - [OpenOffice](https://www.openoffice.org/) - Software suite for word processing, spreadsheets, presentations, graphics, databases and more. [![Open-Source Software][oss icon]](http://openoffice.apache.org/source.html) ![Freeware][freeware icon]
 - [Sumatra PDF](http://www.sumatrapdfreader.org/free-pdf-reader.html) - PDF, ePub, MOBI, CHM, XPS, DjVu, CBZ, CBR reader. [![Open-Source Software][oss icon]](https://github.com/sumatrapdfreader/sumatrapdf) ![Freeware][freeware icon]
@@ -162,12 +105,12 @@ _Items marked with ![Open-Source Software][oss icon] are open-source software. I
 
 ### Games
 
-- [Awesome Games](https://github.com/leereilly/games) - List of games hosted on Github. ![Freeware][freeware icon]
 - [Godot Engine](https://godotengine.org/) - Free and open source game engine. Easy to get started and flexible for intermediate users. [![Open-Source Software][oss icon]](https://github.com/godotengine/godot) ![Freeware][freeware icon]
 - [GOG](https://www.gog.com/) - DRM-free game store with a lot of old games but also has a rich collection of new games.
 - [Itch.io](https://itch.io/app/) - Install, update and play indie games. [![Open-Source Software][oss icon]](https://github.com/itchio/itch) ![Freeware][freeware icon]
-- [Legendary](https://github.com/derrod/legendary) - A free and open-source alternative to the Epic Games Launcher. [![Open-Source Software][oss icon]](https://github.com/derrod/legendary) ![Freeware][freeware icon]
+- [Legendary](https://github.com/derrod/legendary) - A free and open-source alternative to the Epic Games Launcher.
 - [LuaStudio](http://scormpool.com/luastudio) - Free game development tool/engine. Create games and other graphic focused apps on Windows using Lua/LuaJIT programming language. Export them to many platforms including iOS, Android and Mac.
+- [Playnite](https://playnite.link/) - . [![Open-Source Software][oss icon]](https://github.com/itchio/itch) ![Freeware][freeware icon]
 - [Steam](http://store.steampowered.com/) - Largest online video game retailer. Desktop app allows you to organise your library of games and play them at any time. But you already knew that.
 - [Unity](https://unity3d.com/) - Free game engine. Easy to pick up and use with a number of tutorials.
 - [Unreal Engine](https://www.unrealengine.com/what-is-unreal-engine-4) - Another free game engine. Lots of documentation and easier to pick up, but you pay 5% royalties to Unreal when you make money from UE-based games.
@@ -212,8 +155,6 @@ _Items marked with ![Open-Source Software][oss icon] are open-source software. I
 
 ### Backup
 
-- [Arq](https://www.arqbackup.com/) - Backs up your files to your own cloud account (Amazon Cloud Drive, AWS, Dropbox, Google Drive, Google Cloud Storage, OneDrive, and SFTP).
-- [Bvckup 2](https://bvckup2.com/) - Light, versatile data replication software.
 - [Duplicati](https://www.duplicati.com/) - Free backup software to store encrypted backups online For Windows, macOS and Linux. [![Open-Source Software][oss icon]](https://github.com/duplicati/duplicati) ![Freeware][freeware icon]
 
 ### Productivity
@@ -237,7 +178,6 @@ _Items marked with ![Open-Source Software][oss icon] are open-source software. I
 - [Listary](http://www.listary.com/) - Keep files at your fingertips. An unique search utility.
 - [Luna](https://github.com/adrianmteo/Luna) - Automatic dark mode for Windows 10.
 - [MultiCommander](http://multicommander.com/) - File Manager for Professionals. ![Freeware][freeware icon]
-- [Ninite](https://ninite.com/) - The easiest, fastest way to update or install software. ![Freeware][freeware icon]
 - [One Commander](http://onecommander.com/) - File manager featuring miller columns and dual-pane views. ![Freeware][freeware icon]
 - [Scoop](https://github.com/lukesampson/scoop) - A command-line installer for Windows. [![Open-Source Software][oss icon]](https://github.com/lukesampson/scoop) ![Freeware][freeware icon]
 - [Simplenote](https://simplenote.com/) - Simple cross-platform note taking app with cloud-based syncing. ![Freeware][freeware icon]
@@ -252,22 +192,15 @@ _Items marked with ![Open-Source Software][oss icon] are open-source software. I
 - [Babun](http://babun.github.io) - Alternative Windows shell based on Cygwin. [![Open-Source Software][oss icon]](https://github.com/babun/babun) ![Freeware][freeware icon]
 - [Cmder](https://cmder.net) - Console emulator package with clink shell. [![Open-Source Software][oss icon]](https://github.com/cmderdev/cmder) ![Freeware][freeware icon]
 - [ColorTool](https://github.com/Microsoft/Console/tree/master/tools/ColorTool) - Set custom color schemes for the Windows Console with support for iTerm color schemes.
-- [ConEmu](https://github.com/Maximus5/ConEmu) - Customizable terminal with tabs, splits, quake-style and more.
-- [ConsoleZ](https://github.com/cbucher/console) - Modified version of Console 2 for a better experience and a better visual rendering.
 - [FluentTerminal](https://github.com/felixse/FluentTerminal) - A Terminal Emulator based on UWP and web technologies.
 - [Hyper](https://hyper.is) - A terminal built on web technologies. [![Open-Source Software][oss icon]](https://github.com/zeit/hyper) ![Freeware][freeware icon]
 - [Kitty](http://www.9bis.net/kitty/) - advanced Putty (SSH and telnet client).
-- [MobaXterm](http://mobaxterm.mobatek.net/) - Xserver and tabbed SSH client.
 - [mRemoteNG](https://mremoteng.org/) - The next generation of mRemote, open source, tabbed, multi-protocol, remote connections manager. [![Open-Source Software][oss icon]](https://mremoteng.org/) ![Freeware][freeware icon]
-- [MTPuTTY](http://ttyplus.com/multi-tabbed-putty/) - Multi-Tabbed PuTTY.
-- [Putty](http://www.chiark.greenend.org.uk/~sgtatham/putty/download.html) - SSH and telnet client.
 - [Terminus](https://eugeny.github.io/terminus/) - modern, highly configurable terminal app based on web technologies. [![Open-Source Software][oss icon]](https://github.com/Eugeny/terminus) ![Freeware][freeware icon]
 - [Windows Terminal](https://www.microsoft.com/en-us/p/windows-terminal-preview/9n0dx20hk701) - Microsoft's official new terminal for Windows. [![Open-Source Software][oss icon]](https://github.com/microsoft/terminal) ![Freeware][freeware icon]
 
 ### Utilities
 
-- [A-Z of Windows Terminal Commands](http://ss64.com/nt/)
-- [Acrosync](https://acrosync.com/windows.html) - The only native rsync client for Windows (no cygwin required). It supports automatic uploads on file changes and incremental hourly backups.
 - [AddToSendTo](https://aashutoshrathi.github.io/Python-Scripts-and-Games/AddToSendTo/) - This script lets you add your favorite Folder to Send To option, when you right-click. [![Open-Source Software][oss icon]](https://aashutoshrathi.github.io/Python-Scripts-and-Games/AddToSendTo/)
 - [Advanced Renamer](https://www.advancedrenamer.com/) - Advanced batch renaming program, with support for renaming based on GPS data from images, ID3 tags from music files, TV show data and regular expressions. ![Freeware][freeware icon]
 - [Carnac](http://code52.org/carnac/) - The easiest way to record keystrokes during any screen recording.
@@ -276,48 +209,34 @@ _Items marked with ![Open-Source Software][oss icon] are open-source software. I
 - [Econap](https://econap.de) - Prevent sleep mode while your system is busy. ![Freeware][freeware icon]
 - [Ext2Fsd](http://www.ext2fsd.com/) - Open source ext3/4 file system driver for Windows. [![Open-Source Software][oss icon]](https://github.com/matt-wu/Ext3Fsd) ![Freeware][freeware icon]
 - [ExifCleaner](https://exifcleaner.com) - Remove exif metadata from images and videos with drag and drop. [![Open-Source Software][oss icon]](https://github.com/szTheory/exifcleaner) ![Freeware][freeware icon]
-- [Far](http://www.farmanager.com/index.php?l=en) - File and Archive manager. Clone of the Norton Commander. [![Open-Source Software][oss icon]](http://sourceforge.net/projects/farmanager/)
 - [FileOptimizer](https://nikkhokkho.sourceforge.io/static.php?page=FileOptimizer) - A lossless file size optimizer supporting a wide array of formats.
-- [Fraps](http://www.fraps.com/)- Video game capture screen recorder that can be used with all games using DirectX or OpenGL technology.
-- [FreeFileSync](http://www.freefilesync.org/) - An easy backup solution for files and folders, It supports mirroring/two way sync/update between source and destination.
-- [fselect](https://github.com/jhspetersson/fselect) - Command-line tool to search files with SQL-like queries.
+- [FileZilla](https://filezilla-project.org/) - FTP, FTPS and SFTP client. [![Open-Source Software][oss icon]](https://download.filezilla-project.org/client/) ![Freeware][freeware icon]
 - [Glary Utilities](http://www.glarysoft.com/) - Provides many more advanced features which are non existent in ccleaner.
 - [GPU-Z](http://www.techpowerup.com/gpuz/) - A free all-in-one GPU monitoring tool. ![Freeware][freeware icon]
-- [Greenshot](https://github.com/greenshot/greenshot) - Take and crop screenshots directly on the screen. [![Open-Source Software][oss icon]](https://github.com/greenshot/greenshot)
 - [HTTrack](https://www.httrack.com/page/2/en/index.html)- Offline browser utility, allowing you to download a website from the Internet to a local directory. [![Open-Source Software][oss icon]](https://github.com/xroche/httrack/tree/master)
 - [HWMonitor](http://www.cpuid.com/softwares/hwmonitor.html) - A hardware monitoring program that reads PC systems main health sensors : voltages, temperatures, fans speed.
-- [IrfanView](http://www.irfanview.com/) - A very fast, small, compact and innovative graphic viewer for Windows.
 - [LICEcap](http://www.cockos.com/licecap/) - Animated screen captures and save them directly to .GIF
 - [LightBulb](https://github.com/Tyrrrz/LightBulb) - Reduces eyestrain by adjusting gamma based on the current time
-- [Link Shell Extension](http://schinagl.priv.at/nt/hardlinkshellext/hardlinkshellext.html) - Create symlinks from Explorer.
 - [PowerPlanSwitcher](https://www.microsoft.com/en-us/store/p/powerplanswitcher/9nblggh556l3) - Provides a quick UI for switching power schemas & automatic switch on AC-plug-in on Windows10. [![Open-Source Software][oss icon]](https://github.com/petrroll/PowerSwitcher)
 - [Process Explorer](https://docs.microsoft.com/en-us/sysinternals/downloads/process-explorer) - Discover which program has a particular file or directory open. Process Explorer shows you information about which handles and DLLs processes have opened or loaded.
 - [qBittorrent](https://qbittorrent.org/) - Free and reliable P2P Bittorrent client.
 - [Retroshare](https://retroshare.cc/) - A platform for secure communications and file sharing between friends. [![Open-Source Software][oss icon]](https://github.com/RetroShare/RetroShare)
-- [rimraf](https://www.npmjs.com/package/rimraf) - A deep deletion module for node. Help to delete files and folders with very long paths
 - [Rufus](https://rufus.akeo.ie/) - Create bootable USB drives the easy way.
-- [SDelete](https://technet.microsoft.com/en-us/sysinternals/sdelete.aspx) -  A command line utility that can securely delete a file, or clean the slack space.
 - [SetToStartup](https://aashutoshrathi.github.io/Python-Scripts-and-Games/SetToStartup/) - This script will help you to add your favorite programs or self made scripts/folders to startup. [![Open-Source Software][OSS Icon]](https://aashutoshrathi.github.io/Python-Scripts-and-Games/SetToStartup/)
 - [ShareX](https://getsharex.com/)- Lets you take screenshots or screencasts of any selected area with a single key. [![Open-Source Software][OSS Icon]](https://github.com/ShareX/ShareX) ![Freeware][Freeware Icon]
-- [Snipping Tool](https://support.microsoft.com/en-in/help/13776/windows-use-snipping-tool-to-capture-screenshots) / [Snip & Sketch](https://support.microsoft.com/en-us/help/4488540/windows-10-how-to-take-and-annotate-screenshots) - Windows 10 utility to easily capture and edit selected area in screen.
-- [SDelete](https://technet.microsoft.com/en-us/sysinternals/sdelete.aspx) - A command line utility that can securely delete a file, or clean the slack space.
 - [SetToStartup](https://aashutoshrathi.github.io/Python-Scripts-and-Games/SetToStartup/) - This script will help you to add your favorite programs or self made scripts/folders to startup. [![Open-Source Software][oss icon]](https://aashutoshrathi.github.io/Python-Scripts-and-Games/SetToStartup/)
 - [ShareX](https://getsharex.com/)- Lets you take screenshots or screencasts of any selected area with a single key. [![Open-Source Software][oss icon]](https://github.com/ShareX/ShareX) ![Freeware][freeware icon]
-- [SpaceMonger](https://spacemonger.en.softonic.com/download) - A graphical utility to display folders and files in blocks relative to their disk usage.
 - [SpeedCrunch](http://speedcrunch.org/) - The best and only calculator you'll need, completely stripped down of unnecessary UI clutter. [![Open-Source Software][OSS Icon]](https://bitbucket.org/heldercorreia/speedcrunch/) ![Freeware][Freeware Icon]
 - [Sysinternals Suite](https://technet.microsoft.com/en-us/sysinternals/bb842062) - Tool suite by Mark Russinovich that provides access to Windows internals for troubleshooting: processes, physical ports, disk activity etc.
-- [ueli](https://ueli.app/#/) - A powerful keystroke launcher for Windows. 
 - [SpeedCrunch](http://speedcrunch.org/) - The best and only calculator you'll need, completely stripped down of unnecessary UI clutter. [![Open-Source Software][oss icon]](https://bitbucket.org/heldercorreia/speedcrunch/) ![Freeware][freeware icon]
 - [Sysinternals Suite](https://technet.microsoft.com/en-us/sysinternals/bb842062) - Tool suite by Mark Russinovich that provides access to Windows internals for troubleshooting: processes, physical ports, disk activity etc. -[ueli](https://ueli.app/#/) - A powerful keystroke launcher for Windows.
 - [TaskbarX](https://chrisandriessen.nl/taskbarx) - Center Windows taskbar icons with a variety of animations and options. [![Open-Source Software][oss icon]](https://github.com/ChrisAnd1998/TaskbarX) 
 - [Unlocker](http://www.softpedia.com/get/System/System-Miscellaneous/Unlocker.shtml) - Unlock files Windows won't let you delete
-- [Waltr](http://softorino.com/waltr/) - Transfer any movie or music file to your iPhone w/o iTunes.
+- [Wireshark](https://www.wireshark.org/) - A network protocol analyzer. [![Open-Source Software][oss icon]](https://www.wireshark.org/docs/wsdg_html_chunked/ChIntroDevelopment.html) ![Freeware][freeware icon]
 - [WinDirStat](https://windirstat.info/) - It is a disk usage statistics viewer and cleanup too.
 - [Windows 10 Login Screen Changer](https://github.com/PFCKrutonium/Windows-10-Login-Background-Changer/releases/) - Changes the Windows 10 Login Screen Background. [![Open-Source Software][oss icon]](https://github.com/PFCKrutonium/Windows-10-Login-Background-Changer)
 - [WizTree](https://wiztree.en.lo4d.com/) - Excellent, small utility application allows users to quickly find large files on a hard drive. ![Freeware][freeware icon]
-- [Yacy](https://github.com/yacy/yacy_search_server) - A general search engine by corporations of people, including the search web page, general crawlers, indexing, and ranking functions.[![Open-Source Software][oss icon]](https://github.com/yacy/yacy_search_server)
 - [ZeroNet](https://github.com/HelloZeroNet/ZeroNet) - A decentralized web. [![Open-Source Software][oss icon]](https://github.com/HelloZeroNet/ZeroNet)
-- [ZoomIt](https://technet.microsoft.com/en-us/sysinternals/zoomit.aspx) - It is a screen zoom and annotation tool for technical presentations. It runs unobtrusively in the tray and activates with customizable hotkeys to zoom in on an area of the screen, move around while zoomed, and draw on the zoomed image.
 
 ### Proxy and VPN Tools
 
@@ -348,26 +267,24 @@ _Items marked with ![Open-Source Software][oss icon] are open-source software. I
 
 ### Windows 10 Setup
 
-- [Win10-Initial-Setup-Script](https://github.com/Disassembler0/Win10-Initial-Setup-Script) - Powershell script to turn off or on various defaults in Windows.
 - [Friendly Windows Thread](https://rentry.co/fwt) - 4chan's /g/ Windows paste.
+- [Ninite](https://ninite.com/) - The easiest, fastest way to update or install software. ![Freeware][freeware icon]
+- [Win10-Initial-Setup-Script](https://github.com/Disassembler0/Win10-Initial-Setup-Script) - Powershell script to turn off or on various defaults in Windows.
 
 ## Security
 
 - [Acrylic DNS Proxy](http://mayakron.altervista.org/wikibase/show.php?id=AcrylicHome) - A local DNS proxy which caches the responses coming from your DNS servers and helps you fight unwanted ads through a custom HOSTS file. ![Freeware][freeware icon]
 - [Cryptomator](https://cryptomator.org/) - Free client-side encryption for your cloud files. [![Open-Source Software][oss icon]](https://github.com/cryptomator/cryptomator) ![Freeware][freeware icon]
-- [IIS Crypto](https://www.nartac.com/Products/IISCrypto) - A utility for configuring encryption protocols, cyphers, hashing methods, and key exchanges for Windows components (eg TLS/AES/SHA for Remote Desktop)
 - [KeePass](http://www.keepass.info) - Free, open-source, easy-to-use password manager. [![Open-Source Software][oss icon]](https://sourceforge.net/projects/keepass/) ![Freeware][freeware icon]
 - [Malwarebytes](https://www.malwarebytes.org/) - protects from dangerous threats that antivirus doesn't. ![Freeware][freeware icon]
 - [System Explorer](http://systemexplorer.net) - An enhanced task manager with support for monitoring and modifying system processes, start-up programs, system services, drivers, shell extensions, and more.
 - [Tor Project](https://www.torproject.org/) - Enable anonymous communication. [![Open-Source Software][oss icon]](https://github.com/TheTorProject) ![Freeware][freeware icon]
 - [VeraCrypt](https://www.veracrypt.fr/en/Home.html) - VeraCrypt is a free open source disk encryption software for Windows, Mac OSX and Linux. [![Open-Source Software][oss icon]](https://www.veracrypt.fr/code/VeraCrypt/)
-- [Wireshark](https://www.wireshark.org/) - Network security monitoring tool and analyzer that visualizes your network activity. [![Open-Source Software][oss icon]](https://gitlab.com/wireshark/wireshark.git) ![Freeware][freeware icon]
 
 ## Miscellaneous
 
 - [Show hidden files](http://www.windows.microsoft.com/en-in/windows/show-hidden-files)
-- [list of Shortcut keys](http://imgur.com/a/TIXvm)
-
+- [list of Shortcut keys](http://imgur.com/a/TIXvm)                       
 
 **[⬆ back to top](#applications)**
 
